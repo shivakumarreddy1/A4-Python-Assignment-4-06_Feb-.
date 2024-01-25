@@ -1,4 +1,4 @@
-# A4-Python-Assignment-4-06_Feb-.
+# A5-Python-Assignment-5-06_Feb-.
 
 Q1. Create a function which will take a list as an argument and return the product of all the numbers
 after creating a flat list.
